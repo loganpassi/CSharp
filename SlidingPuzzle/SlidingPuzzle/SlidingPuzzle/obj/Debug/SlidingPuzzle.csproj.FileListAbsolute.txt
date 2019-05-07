@@ -1,0 +1,9 @@
+D:\C#\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.exe.config
+D:\C#\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.exe
+D:\C#\SlidingPuzzle\SlidingPuzzle\bin\Debug\SlidingPuzzle.pdb
+D:\C#\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csprojResolveAssemblyReference.cache
+D:\C#\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Form1.resources
+D:\C#\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.Properties.Resources.resources
+D:\C#\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.csproj.GenerateResource.Cache
+D:\C#\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.exe
+D:\C#\SlidingPuzzle\SlidingPuzzle\obj\Debug\SlidingPuzzle.pdb
