@@ -1,0 +1,9 @@
+D:\C#\Simon\Simon\bin\Debug\Simon.exe.config
+D:\C#\Simon\Simon\bin\Debug\Simon.exe
+D:\C#\Simon\Simon\bin\Debug\Simon.pdb
+D:\C#\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+D:\C#\Simon\Simon\obj\Debug\Simon.Form1.resources
+D:\C#\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+D:\C#\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
+D:\C#\Simon\Simon\obj\Debug\Simon.exe
+D:\C#\Simon\Simon\obj\Debug\Simon.pdb
