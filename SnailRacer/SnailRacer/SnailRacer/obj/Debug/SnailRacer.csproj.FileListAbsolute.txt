@@ -1,0 +1,9 @@
+D:\C#\SnailRacer\SnailRacer\bin\Debug\SnailRacer.exe.config
+D:\C#\SnailRacer\SnailRacer\bin\Debug\SnailRacer.exe
+D:\C#\SnailRacer\SnailRacer\bin\Debug\SnailRacer.pdb
+D:\C#\SnailRacer\SnailRacer\obj\Debug\SnailRacer.csprojResolveAssemblyReference.cache
+D:\C#\SnailRacer\SnailRacer\obj\Debug\SnailRacer.Form1.resources
+D:\C#\SnailRacer\SnailRacer\obj\Debug\SnailRacer.Properties.Resources.resources
+D:\C#\SnailRacer\SnailRacer\obj\Debug\SnailRacer.csproj.GenerateResource.Cache
+D:\C#\SnailRacer\SnailRacer\obj\Debug\SnailRacer.exe
+D:\C#\SnailRacer\SnailRacer\obj\Debug\SnailRacer.pdb
