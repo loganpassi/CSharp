@@ -1,0 +1,5 @@
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojAssemblyReference.cache
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb

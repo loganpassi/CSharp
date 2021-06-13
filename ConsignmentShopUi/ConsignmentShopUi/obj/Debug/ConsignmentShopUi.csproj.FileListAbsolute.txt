@@ -1,0 +1,12 @@
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\bin\Debug\ConsignmentShopUi.exe.config
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\bin\Debug\ConsignmentShopUi.exe
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\bin\Debug\ConsignmentShopUi.pdb
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.csprojAssemblyReference.cache
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.ConsignmentShop.resources
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.Properties.Resources.resources
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.csproj.GenerateResource.cache
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.exe
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.pdb
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\logan\source\repos\ConsignmentShopUi\ConsignmentShopUi\obj\Debug\ConsignmentShopUi.csproj.CopyComplete
